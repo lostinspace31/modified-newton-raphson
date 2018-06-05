@@ -1,1 +1,1 @@
-# numerical_methods
+# numericalMethods
