@@ -5,4 +5,4 @@ Newton-Raphson method for finding roots with multiplicity.
 
 Submitted to the University of Glasgow as an assignment in Numerical Methods in 2015/2016.
 
-Follow Report.pdf for analysis of the results and documentation of the code.
+Follow Assignment1.pdf for analysis of the results and documentation of the code.
